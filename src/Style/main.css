@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-size: 62.5%;
+}
+.container {
+  background-color: #e5e5e5;
+  background-image: url("https://www.transparenttextures.com/patterns/checkered-pattern.png");
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+

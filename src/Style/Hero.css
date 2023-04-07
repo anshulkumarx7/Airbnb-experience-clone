@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+.Hero {
+  width: 55rem;
+  height: 50rem;
+  background-color: #FFFFFF;
+  padding-top: 1.2rem;
+}
+.airbnb-grid {
+  background-image: url(./Group\ 77.png);
+  width: 39.591rem;
+  height: 23.2rem;
+  margin-left: 8.9rem;
+}
+.hero-text {
+  font-family: "Poppins";
+  font-style: normal;
+  margin-left: 3.6rem;
+  margin-top: 4rem;
+}
+.hero-text h1 {
+  width: 34.7rem;
+  height: 4rem;
+  font-weight: 600;
+  font-size: 3.6rem;
+  line-height: 110%;
+}
+.hero-text p {
+  width: 32rem;
+  height: 5.6rem;
+  font-weight: 300;
+  font-size: 1.6rem;
+  line-height: 110%;
+  margin-top: 1.6rem;
+
+}
